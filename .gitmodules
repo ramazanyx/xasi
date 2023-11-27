@@ -1,0 +1,12 @@
+[submodule "xash-extras"]
+	path = xash-extras
+	url = https://github.com/tyabus/xash-extras
+[submodule "jni/src/NanoGL/nanogl"]
+	path = jni/src/NanoGL/nanogl
+	url = https://github.com/tyabus/nanogl
+[submodule "jni/src/Xash3D/xash3d"]
+	path = jni/src/Xash3D/xash3d
+	url = https://github.com/hasandramali/xash3d
+[submodule "jni/src/hlsdk-portable"]
+	path = jni/src/hlsdk-portable
+	url = https://github.com/FWGS/hlsdk-portable
